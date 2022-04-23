@@ -1,0 +1,61 @@
+.header {
+  padding-top: 2rem;
+  background-color: #ffab3b;
+}
+
+.cover {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+}
+.cover .social a {
+  color: white;
+}
+
+.nav-link {
+  color: #f1f1f1;
+}
+
+.navbar .navbar-nav .nav-link {
+  text-transform: uppercase;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.navbar-brand {
+  margin-left: 5em;
+}
+
+.d-flex {
+  margin-right: 5em;
+}
+
+input {
+  width: 10em;
+  background-color: transparent;
+  outline: none;
+  padding: 10;
+  font-size: 14;
+  border-radius: 20px;
+  box-shadow: 0 0 4px #fff;
+  transition: box-shadow 0.5s ease;
+  color: white;
+}
+::placeholder {
+  color: white;
+}
+.cyan {
+  color: white;
+}
+
+.container .row .card {
+  margin-top: 2em;
+}
+
+#portofolio{
+  background-color: #ffab3b;
+}
